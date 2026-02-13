@@ -19,13 +19,13 @@ A lightweight, client-side web application for georeferencing raster images (sca
 ## 🚀 Quick Start
 
 ### Use Online
-Visit the deployed site: `https://<your-username>.github.io/georef/`
+Visit the deployed site: `https://geonet-myanmar.github.io/georef/`
 
 ### Run Locally
 Simply open `index.html` in any modern browser. No build tools or dependencies to install.
 
 ```bash
-git clone https://github.com/<your-username>/georef.git
+git clone https://github.com/geonet-myanmar/georef.git
 cd georef
 # Open index.html in your browser
 ```
